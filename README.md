@@ -20,3 +20,9 @@ $ git clone git@github.com:DeepLearnerSC/JEST.git
 $ npm install
 ```
 
+```bash
+$ npm install --save-dev jest
+```
+
+
+part 2.
