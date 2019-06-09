@@ -25,4 +25,11 @@ $ npm install --save-dev jest
 ```
 
 
+for testing e2e
+puppeteer is headless version of chrome browser which interects the dom.
+```bash
+$ npm install --save-dev puppeteer
+```
+
+
 part 2.
