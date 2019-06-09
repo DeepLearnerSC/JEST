@@ -17,7 +17,6 @@ const validateInput = (text, notEmpty, isNumber) => {
   return true;
 };
 
-
 exports.createElement = (type, text, className) => {
   // Creates a new HTML element and returns it
   const newElement = document.createElement(type);
